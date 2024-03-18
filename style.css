@@ -1,0 +1,185 @@
+#log button{
+height: 30px;
+width: 300px;
+
+}
+#idol{
+border: solid azure;
+background-color: rgb(226, 230, 231);
+height: 600px;
+width: 500px;
+border-radius: 20px;
+text-align: center;
+margin-left: 600px;
+
+
+}
+#pictures button{
+background-color: rgb(36, 8, 136);
+border-radius: 20px;
+color: white;
+height: 30px;
+width: 300px;
+
+}
+#pictures img{
+background-color: aliceblue;
+border-radius: 50%;
+
+
+}
+#reen button{
+background-color: rgb(10, 156, 10);
+color: white;
+border-radius: 20px;
+height: 30px;
+width: 300px;
+
+}
+#when{
+text-align: center;
+font-size: x-large;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#google button{
+width: 300px;
+height: 30px;
+
+}
+#whole button{
+width: 300px;
+height: 30px;
+
+}
+#play button{
+width:300px;
+height: 30px;
+
+}
+#pictures a{
+color: white;
+}
+#pass{
+    text-align: center;
+}
+#pass a{
+    color: green;
+    text-decoration-line: none;
+}
+#sign a{
+    color: green;
+    text-decoration-line: none;
+}
+#white{
+  display: flex; 
+  gap: 50px;
+  justify-content: space-around;
+
+}
+#sign button{
+height: 30px;
+width: 300px;
+
+}
+
+#free button{
+background-color:green;
+width: 300px;
+height: 30px;
+border-radius: 20px;
+
+}
+#fb button{
+background-color:rgb(19, 19, 143);
+width: 300px;
+height: 30px;
+color: white;
+border-radius: 20px;
+
+
+}
+#container{
+width:500px ;
+height:700px ;
+background-color:  rgb(226, 230, 231);
+text-align: center;
+margin: 600px;
+padding-top: 50px;
+border: solid white;
+border-radius: 20px;
+}
+#sign p{
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: x-large;
+
+}
+#fb img{
+background-color: white;
+border-radius: 50%;
+
+}
+#march button{
+border-radius: 20px;
+width: 300px;
+height: 30px;
+}
+#may button{
+border-radius: 20px;
+width: 300px;
+height: 30px;
+
+}
+#log a{
+text-decoration-line: none;
+color: rgb(9, 138, 9);
+
+}
+#reset a{
+color: rgb(21, 22, 21);
+text-decoration-line: none;
+
+}
+#reset{
+text-align: center;
+background-color: rgb(226, 230, 231);
+margin: 600px;
+width: 500px;
+height:400px;
+padding-top: 50px;
+
+
+}
+#get button{
+width: 300px;
+height: 30px;
+
+}
+
+#now button{
+    width:300px ;
+    height:30px ;
+    border-radius: 20px;
+}
+#space{
+  display: flex;  
+  justify-content: space-between;
+  justify-content: space-around;
+}
+#up{
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+}
+#pass{
+display: flex;
+justify-content: space-around;
+
+}
+#pull{
+
+
+}
+
+
